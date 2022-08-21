@@ -25,6 +25,7 @@ input {
 }
 .logo img {
   width: 90px;
+  cursor: pointer;
 }
 #main {
   width: 100%;
@@ -83,6 +84,7 @@ nav ul li a:hover {
   color: #000000;
   box-shadow: 5px 10px 30px rgba(189, 198, 64, 0.411);
   transition: all ease 0.2s;
+  cursor: pointer;
 }
 nav .menu-btn,
 .menu-icon {
@@ -126,6 +128,7 @@ nav .menu-btn,
   box-shadow: 5px 10px 30px rgba(255, 2, 2, 0.137);
   border-radius: 10px;
   color: #000266;
+  cursor: pointer;
 }
 .cv-btn1 {
   font-size: 14px;
@@ -139,6 +142,7 @@ nav .menu-btn,
   color: #ffffff;
   border-radius: 10px;
   margin-left: 20px;
+  cursor: pointer;
 }
 .cv-btn:hover {
   background-color: #ffffff;
