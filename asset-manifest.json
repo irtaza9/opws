@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/opws/static/css/main.e9f0e65e.css",
+    "main.js": "/opws/static/js/main.f8dda46a.js",
+    "static/media/background.png": "/opws/static/media/background.00c066dc0b70e75b96c2.png",
+    "static/media/Frame 19.png": "/opws/static/media/Frame 19.1ea98a56e3c14dcb1083.png",
+    "static/media/s1.png": "/opws/static/media/s1.0a22d0af2ac46f402f41.png",
+    "static/media/s2.png": "/opws/static/media/s2.2a9f596b9b34f01dbebb.png",
+    "index.html": "/opws/index.html",
+    "main.e9f0e65e.css.map": "/opws/static/css/main.e9f0e65e.css.map",
+    "main.f8dda46a.js.map": "/opws/static/js/main.f8dda46a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f0e65e.css",
+    "static/js/main.f8dda46a.js"
+  ]
+}
