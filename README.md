@@ -123,7 +123,7 @@ https://irtaza9.github.io/opws/
 ## Support
 
 <p>You can show your support by starring this project.</p>
-<a href="https://github.com/irtaza9/awesome-shortcuts/stargazers">
+<a href="https://github.com/irtaza9/opws/stargazers">
   <img src="https://img.shields.io/github/stars/irtaza9/awesome-shortcuts?style=social" alt="Github Star">
 </a>
 
